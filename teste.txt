@@ -1,0 +1,4 @@
+escrevendo no arquivo
+oi
+123Mais texto no arquivo
+fim

@@ -1,0 +1,16 @@
+
+- Pagamentos.
+
+--Pagamento Através de Crédito em Conta, Cheque, OP, DOC, TED ou Pagamento com Autenticação.
+
+-- Pagamento de Títulos de Cobrança.
+
+-- Pagamento de Tributos.
+
+- Cobrança.
+
+......
+
+
+Parte de serviços e produtos do manual do CNAB
+ (verificar quais o cliente irá utilizar).
