@@ -6,7 +6,7 @@ class Trailer{
     
     
     //parte Controle
-    public var condigoBancoCompensacao = "000"
+    public var codigoBancoCompensacao = "000"
     public var loteServico = "9999"
     public var tipoRegistro  = "9"
 

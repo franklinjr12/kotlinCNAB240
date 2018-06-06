@@ -3,7 +3,7 @@ package fileStructure
 class Header{
 
     //parte Controle
-    public var condigoBancoCompensacao = "000"
+    public var codigoBancoCompensacao = "000"
     public var loteServico = "0000"
     public var tipoRegistro = "0"
 
